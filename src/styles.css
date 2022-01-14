@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.list {
+  border-bottom: 1px solid darkorange;
+}
+
+.row {
+  border: 1px solid darkorange;
+  border-bottom: 0;
+  text-align: left;
+}
